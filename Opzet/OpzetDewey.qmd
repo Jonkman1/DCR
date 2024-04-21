@@ -14,9 +14,9 @@ editor: visual
 - Chicago and Jane Addams.   
 
 ### Kennis
-- Psychological Standpoint, Psychology as Philosophical Method, The Reflex Arc Concept.    
-- Kennis.   
-- Denken.   
+- Psychological Standpoint, Psychology as Philosophical Method, The Reflex Arc Concept.      
+- The Experimental Theory of Knowledge (1906/1910)      
+- The Pattern of Inquiry (1938/1966).   
 
 ### Moraal
 - Habit, Conduct, Language. Place of Habit in Conduct (1922).   
@@ -29,9 +29,10 @@ editor: visual
 - Religion versus the Religious (1934).
 
 ### Filosofie
-- The Need for a Recovery of Philosophy (1917).    
-- Experimentation.   
-- The Pattern of Inquiry (1938).
+- The Need for a Recovery of Philosophy (1917).      
+- Escape from Peril (1929/1960).   
+- Philosophy's Search of the Immutable (1929/1960).    
+- The Pattern of Inquiry (1938).    
 
 ### Onderwijs
 - My Pedagogic Creed (1897).What is school for (1923).   
