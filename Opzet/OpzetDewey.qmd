@@ -6,60 +6,87 @@ editor: visual
 
 ## Dewey
 
+### Waarom Dewey?
+
 ### Achtergrond
-- Absolutism to Experimentism.  
-- Kant and Philosophical Method (Hegel).   
-- The Influence of Darwinism on Philosophy.   
-- The Development of American Pragmatism.   
-- Chicago and Jane Addams.   
+- Inleiding
+- Absolutism to Experimentism  
+- Kant and Philosophical Method (Hegel)  
+- The Influence of Darwinism on Philosophy   
+- The Development of American Pragmatism   
+- Chicago and Jane Addams   
+- Samenvatting
 
 ### Kennis
-- Psychological Standpoint, Psychology as Philosophical Method, The Reflex Arc Concept.      
+- Inleiding
+- Psychological Standpoint, Psychology as Philosophical Method, The Reflex Arc Concept      
 - The Experimental Theory of Knowledge (1906/1910)      
-- The Pattern of Inquiry (1938/1966).   
+- The Pattern of Inquiry (1938/1966)   
+- Samenvatting
 
 ### Moraal
-- Habit, Conduct, Language. Place of Habit in Conduct (1922).   
+- Inleiding
+- Habit, Conduct, Language. Place of Habit in Conduct (1922)   
 - Ethics. The Moral Self (1932)    
-- Judment. Moral Judgement and Knowledge (1932).  
+- Judment. Moral Judgement and Knowledge (1932)  
+- Samenvatting
 
 ### Kunst en Religie
-- The Live Creature (1934).  
-- By Nature and by Art (1944).   
-- Religion versus the Religious (1934).
+- Inleiding
+- The Live Creature (1934)  
+- By Nature and by Art (1944)   
+- Religion versus the Religious (1934)
+- Samenvatting
 
 ### Filosofie
-- The Need for a Recovery of Philosophy (1917).      
-- Escape from Peril (1929/1960).   
-- Philosophy's Search of the Immutable (1929/1960).    
-- The Pattern of Inquiry (1938).    
+- Inleiding
+- The Need for a Recovery of Philosophy (1917)      
+- Escape from Peril (1929/1960)   
+- Philosophy's Search of the Immutable (1929/1960)    
+- The Pattern of Inquiry (1938)    
+- Samenvatting
 
 ### Onderwijs
-- My Pedagogic Creed (1897).What is school for (1923).   
-- The Child and the Curriculum (1902).   
-- Democray and Education in the Wolrd of Today (1938).   
+- Inleiding
+- My Pedagogic Creed (1897).What is school for (1923)   
+- The Child and the Curriculum (1902)   
+- Democray and Education in the Wolrd of Today (1938)   
+- Samenvatting
 
 ### Politiek
-- Why I'm not a Communist (1934).   
-- The Lost Individual (1930).   
-- The Search for the Public (1927).
+- Inleiding
+- Why I'm not a Communist (1934)   
+- The Lost Individual (1930)   
+- The Search for the Public (1927)
+- Samenvatting
 
-### Natuur
-- Nature, Life and Body-Mind (1923).   
-- Nature in Experience (1940).   
-- What Humanism means to me (1930).
+### Logica
+- Inleiding
+- The Problem of Truth (1911)
+- The Place of Judgement in Reflective Activity (1933)   
+- Propositions, Warranted Assertibility, and Truth (1941)
+- Samenvatting
 
 ### Reizen
+- Inleiding
 - Japan en China.   
 - Turkije   
-- Mexico
+- Mexico, Rusland en Zuid-Afrika
+- Samenvatting
 
 ### Intellectueel
-- Oorlog en Vrede.        
-- Het publiek.  
-- De Trotsky-zaak.  
+- Inleiding
+- Oorlog en Vrede        
+- Het publiek  
+- De Trotsky-zaak  
+- Samenvatting
 
 ### Democratie
-- Democracy is radical (1937).  
-- Creative Democracy- The Task Before Us (1939).  
-- Search for the Great Community (1927).
+- Inleiding
+- Democracy is radical (1937)  
+- Creative Democracy- The Task Before Us (1939)  
+- Search for the Great Community (1927)
+- Samenvatting
+
+### Wat hebben we eraan?
+
