@@ -10,83 +10,108 @@ editor: visual
 
 ### Achtergrond
 - Inleiding
-- Absolutism to Experimentism  
-- Kant and Philosophical Method (Hegel)  
-- The Influence of Darwinism on Philosophy   
-- The Development of American Pragmatism   
-- Chicago and Jane Addams   
+- Absolutism to Experimentism  (PJD, 1-12)
+- Kant and Philosophical Method (Hegel) (PJD, 13-24)
+- The Influence of Darwinism on Philosophy (PJD, 31-40)
+- The Development of American Pragmatism (PJD, 41-57)
+- Chicago and Jane Addams
 - Samenvatting
 
 ### Kennis
 - Inleiding
-- Psychological Standpoint, Psychology as Philosophical Method, The Reflex Arc Concept      
-- The Experimental Theory of Knowledge (1906/1910)      
-- The Pattern of Inquiry (1938/1966)   
+- Psychological Standpoint (1886; PJD, 98-115), Psychology as Philosophical Method (1886; PJD, 116-135), The Reflex Arc Concept (1886; PJD, 136-147)
+- The Experimental Theory of Knowledge (1906/1910; PJD, 175-192)
+- The Pattern of Inquiry (1938/1966; PJD, 223-239)
 - Samenvatting
 
 ### Moraal
 - Inleiding
-- Habit, Conduct, Language. Place of Habit in Conduct (1922)   
-- Ethics. The Moral Self (1932)    
-- Judment. Moral Judgement and Knowledge (1932)  
+- Place of Habit in Conduct (1922; ED2, 19-23)
+- The Moral Self (1932; ED2, 341-354)
+- Moral Judgement and Knowledge (1932; ED2, 328-340)
 - Samenvatting
 
 ### Kunst en Religie
 - Inleiding
-- The Live Creature (1934)  
-- By Nature and by Art (1944)   
-- Religion versus the Religious (1934)
+- The Live Creature (1934; ED1, 391-400)
+- By Nature and by Art (1944; ED1, 372-379)
+- Religion versus the Religious (1934; ED1, 401-409)
 - Samenvatting
 
 ### Filosofie
 - Inleiding
-- The Need for a Recovery of Philosophy (1917)      
-- Escape from Peril (1929/1960)   
-- Philosophy's Search of the Immutable (1929/1960)    
-- The Pattern of Inquiry (1938)    
+- The Need for a Recovery of Philosophy (1917; ED1, 46-70)
+- Escape from Peril (1929/1960, PJD, 355-370)
+- Philosophy's Search of the Immutable (1929/1960, PJD, 371-387)
+- The Pattern of Inquiry (1938; ED2, 169-179)
 - Samenvatting
 
 ### Onderwijs
 - Inleiding
-- My Pedagogic Creed (1897).What is school for (1923)   
-- The Child and the Curriculum (1902)   
-- Democray and Education in the Wolrd of Today (1938)   
+- My Pedagogic Creed (1897; ED1, 229-235)
+- What is school for (1923, APP, nr 18)
+- The Child and the Curriculum (1902; ED1, 236-245)
+- Democray and Education in the World of Today (1938; APP, nr 25)
 - Samenvatting
 
 ### Politiek
 - Inleiding
-- Why I'm not a Communist (1934)   
-- The Lost Individual (1930)   
-- The Search for the Public (1927)
+- Why I'm not a Communist (1934, APP, nr. 13)
+- The Lost Individual (1930; PJD, 598-607)
+- The Search for the Public (1927; ED1, 281-292)
 - Samenvatting
 
 ### Logica
 - Inleiding
-- The Problem of Truth (1911)
-- The Place of Judgement in Reflective Activity (1933)   
-- Propositions, Warranted Assertibility, and Truth (1941)
+- The Problem of Truth (1911, ED2, 101-130)
+- The Place of Judgement in Reflective Activity (1933, ED2, 145-150)
+- Propositions, Warranted Assertibility, and Truth (1941, ED2, 201-212)
 - Samenvatting
 
 ### Reizen
 - Inleiding
-- Japan en China.   
-- Turkije   
+- Japan en China
+- Turkije
 - Mexico, Rusland en Zuid-Afrika
 - Samenvatting
 
 ### Intellectueel
 - Inleiding
-- Oorlog en Vrede        
-- Het publiek  
-- De Trotsky-zaak  
+- Oorlog en Vrede
+- Het publiek
+- De Trotsky-zaak
 - Samenvatting
 
 ### Democratie
 - Inleiding
-- Democracy is radical (1937)  
-- Creative Democracy- The Task Before Us (1939)  
-- Search for the Great Community (1927)
+- Democracy is radical (1937, APP, nr.1)
+- Creative Democracy- The Task Before Us (1939, APP, nr.9)
+- Search for the Great Community (1927, PJD, 620-642)
 - Samenvatting
 
 ### Wat hebben we eraan?
+
+### Literatuur.
+*Artikelen uit:*.  
+**ED1**	   
+Hickman, L.A. & Alexander, T.M., ed (1998). *The Essential Dewey. Volume 1. Pragmatism, Education, Democracy*. Bloomington/Indianapolis: Indiana University Press
+
+**ED2**	   
+Hickman, L.A. & Alexander, T.M., ed (1998). *The Essential Dewey. Volume 2. Ethics, Logic, Psychology.* Bloomington/Indianapolis: Indiana University Press.
+
+**PJD**	   
+McDermott, J.J., ed. (1973/1981) *The Philosophy of John Dewey. Two Volumes in One, 1. The Structure of Experience; 2. The Lived Experience.* Chicago/London: The University of Chicago Press.  
+
+**APP**	   
+Weber, E.T., ed.  (2021). *America’s Public Philosopher. Essays on Social Justice, Economics, Education, and the Future of Democracy*. New York: Columbia Unversity.    
+
+*Biografieën*.  
+**JDAD**	   
+Westbrook, R.B. (1991). *John Dewey and American Democracy*. Ithaka and London: Cornell University Press
+
+**JDHT**	   
+Ryan, A. (1995). *John Dewey and the High Tide of American Liberalism.* New York/London: W.W. Norton & Company
+
+**EJD**	   
+Jay, M. (2002/2024). *The Education of John Dewey*. New York: Columbia University.  
 
