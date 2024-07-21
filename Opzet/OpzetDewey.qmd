@@ -24,14 +24,14 @@ editor: visual
 - The Pattern of Inquiry (1938/1966; PJD, 223-239)
 - Samenvatting
 
-### Moraal
+### Moraal (Pappas)
 - Inleiding
 - Place of Habit in Conduct (1922; ED2, 19-23)
 - The Moral Self (1932; ED2, 341-354)
 - Moral Judgement and Knowledge (1932; ED2, 328-340)
 - Samenvatting
 
-### Kunst en Religie
+### Kunst en Religie (Barend)
 - Inleiding
 - The Live Creature (1934; ED1, 391-400)
 - By Nature and by Art (1944; ED1, 372-379)
@@ -46,7 +46,7 @@ editor: visual
 - The Pattern of Inquiry (1938; ED2, 169-179)
 - Samenvatting
 
-### Onderwijs
+### Onderwijs (Finse phd)
 - Inleiding
 - My Pedagogic Creed (1897; ED1, 229-235)
 - What is school for (1923, APP, nr 18)
@@ -54,42 +54,42 @@ editor: visual
 - Democray and Education in the World of Today (1938; APP, nr 25)
 - Samenvatting
 
-### Politiek
+### Politiek (zie inleiding boek)
 - Inleiding
 - Why I'm not a Communist (1934, APP, nr. 13)
 - The Lost Individual (1930; PJD, 598-607)
 - The Search for the Public (1927; ED1, 281-292)
 - Samenvatting
 
-### Logica
+### Logica (phd Mc Dermott)
 - Inleiding
 - The Problem of Truth (1911, ED2, 101-130)
 - The Place of Judgement in Reflective Activity (1933, ED2, 145-150)
 - Propositions, Warranted Assertibility, and Truth (1941, ED2, 201-212)
 - Samenvatting
 
-### Reizen
+### Reizen 
 - Inleiding
 - Japan en China
 - Turkije
 - Mexico, Rusland en Zuid-Afrika
 - Samenvatting
 
-### Intellectueel
+### Intellectueel (rol van de intellectueel)
 - Inleiding
 - Oorlog en Vrede
 - Het publiek
 - De Trotsky-zaak
 - Samenvatting
 
-### Democratie
+### Democratie (Bernstein)
 - Inleiding
 - Democracy is radical (1937, APP, nr.1)
 - Creative Democracy- The Task Before Us (1939, APP, nr.9)
 - Search for the Great Community (1927, PJD, 620-642)
 - Samenvatting
 
-### Wat hebben we eraan?
+### Wat hebben we eraan? (biografieen, Rorty, Bernstein etc)
 
 ### Literatuur.
 *Artikelen uit:*.  
