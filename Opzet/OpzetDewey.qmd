@@ -9,109 +9,155 @@ editor: visual
 ### Waarom Dewey?
 
 ### Achtergrond
-- Inleiding
-- Absolutism to Experimentism  (PJD, 1-12)
-- Kant and Philosophical Method (Hegel) (PJD, 13-24)
-- The Influence of Darwinism on Philosophy (PJD, 31-40)
-- The Development of American Pragmatism (PJD, 41-57)
-- Chicago and Jane Addams
-- Samenvatting
+
+-   Inleiding
+-   Absolutism to Experimentism (PJD, 1-12)
+-   Kant and Philosophical Method (Hegel) (PJD, 13-24)
+-   The Influence of Darwinism on Philosophy (PJD, 31-40)
+-   The Development of American Pragmatism (PJD, 41-57)
+-   Chicago and Jane Addams
+-   Samenvatting
 
 ### Kennis
-- Inleiding
-- Psychological Standpoint (1886; PJD, 98-115), Psychology as Philosophical Method (1886; PJD, 116-135), The Reflex Arc Concept (1886; PJD, 136-147)
-- The Experimental Theory of Knowledge (1906/1910; PJD, 175-192)
-- The Pattern of Inquiry (1938/1966; PJD, 223-239)
-- Samenvatting
+
+-   Inleiding
+-   Psychological Standpoint (1886; PJD, 98-115), Psychology as Philosophical Method (1886; PJD, 116-135), The Reflex Arc Concept (1886; PJD, 136-147)
+-   The Experimental Theory of Knowledge (1906/1910; PJD, 175-192)
+-   The Pattern of Inquiry (1938/1966; PJD, 223-239)
+-   Samenvatting
 
 ### Moraal (Pappas)
-- Inleiding
-- Place of Habit in Conduct (1922; ED2, 19-23)
-- The Moral Self (1932; ED2, 341-354)
-- Moral Judgement and Knowledge (1932; ED2, 328-340)
-- Samenvatting
+
+-   Inleiding
+-   Place of Habit in Conduct (1922; ED2, 19-23)
+-   The Moral Self (1932; ED2, 341-354)
+-   Moral Judgement and Knowledge (1932; ED2, 328-340)
+-   Samenvatting
 
 ### Kunst en Religie (Barend)
-- Inleiding
-- The Live Creature (1934; ED1, 391-400)
-- By Nature and by Art (1944; ED1, 372-379)
-- Religion versus the Religious (1934; ED1, 401-409)
-- Samenvatting
+
+-   Inleiding
+-   The Live Creature (1934; ED1, 391-400)
+-   By Nature and by Art (1944; ED1, 372-379)
+-   Religion versus the Religious (1934; ED1, 401-409)
+-   Samenvatting
 
 ### Filosofie
-- Inleiding
-- The Need for a Recovery of Philosophy (1917; ED1, 46-70)
-- Escape from Peril (1929/1960, PJD, 355-370)
-- Philosophy's Search of the Immutable (1929/1960, PJD, 371-387)
-- The Pattern of Inquiry (1938; ED2, 169-179)
-- Samenvatting
 
-### Onderwijs (Finse phd)
-- Inleiding
-- My Pedagogic Creed (1897; ED1, 229-235)
-- What is school for (1923, APP, nr 18)
-- The Child and the Curriculum (1902; ED1, 236-245)
-- Democray and Education in the World of Today (1938; APP, nr 25)
-- Samenvatting
+-   Inleiding
+-   The Need for a Recovery of Philosophy (1917; ED1, 46-70)
+-   Escape from Peril (1929/1960, PJD, 355-370)
+-   Philosophy's Search of the Immutable (1929/1960, PJD, 371-387)
+-   The Pattern of Inquiry (1938; ED2, 169-179)
+-   Samenvatting
 
-### Politiek (zie inleiding boek)
-- Inleiding
-- Why I'm not a Communist (1934, APP, nr. 13)
-- The Lost Individual (1930; PJD, 598-607)
-- The Search for the Public (1927; ED1, 281-292)
-- Samenvatting
+### Politiek (Bishop (2007) zie inleiding boek)
 
-### Logica (phd Mc Dermott)
-- Inleiding
-- The Problem of Truth (1911, ED2, 101-130)
-- The Place of Judgement in Reflective Activity (1933, ED2, 145-150)
-- Propositions, Warranted Assertibility, and Truth (1941, ED2, 201-212)
-- Samenvatting
+-   Inleiding
+-   Why I'm not a Communist (1934, APP, nr. 13)
+-   The Lost Individual (1930; PJD, 598-607)
+-   The Search for the Public (1927; ED1, 281-292)
+-   Samenvatting
 
-### Reizen 
-- Inleiding
-- Japan en China
-- Turkije
-- Mexico, Rusland en Zuid-Afrika
-- Samenvatting
+### Logica (Kennedy, G. (1970)phd Mc Dermott)
+
+-   Inleiding
+-   The Problem of Truth (1911, ED2, 101-130)
+-   The Place of Judgement in Reflective Activity (1933, ED2, 145-150)
+-   Propositions, Warranted Assertibility, and Truth (1941, ED2, 201-212)
+-   Samenvatting
+
+### Reizen
+
+-   Inleiding
+-   Japan en China
+-   Turkije
+-   Mexico, Rusland en Zuid-Afrika
+-   Samenvatting
 
 ### Intellectueel (rol van de intellectueel)
-- Inleiding
-- Oorlog en Vrede
-- Het publiek
-- De Trotsky-zaak
-- Samenvatting
+
+-   Inleiding
+-   Oorlog en Vrede
+-   Het publiek
+-   De Trotsky-zaak
+-   Samenvatting
 
 ### Democratie (Bernstein)
-- Inleiding
-- Democracy is radical (1937, APP, nr.1)
-- Creative Democracy- The Task Before Us (1939, APP, nr.9)
-- Search for the Great Community (1927, PJD, 620-642)
-- Samenvatting
+
+-   Inleiding
+-   Democracy is radical (1937, APP, nr.1)
+-   Creative Democracy- The Task Before Us (1939, APP, nr.9)
+-   Search for the Great Community (1927, PJD, 620-642)
+-   Samenvatting
+
+### Onderwijs (Finse phd)
+
+-   Inleiding
+-   My Pedagogic Creed (1897; ED1, 229-235)
+-   What is school for (1923, APP, nr 18)
+-   The Child and the Curriculum (1902; ED1, 236-245)
+-   Democray and Education in the World of Today (1938; APP, nr 25)
+-   Samenvatting
+
 
 ### Wat hebben we eraan? (biografieen, Rorty, Bernstein etc)
 
 ### Literatuur.
-*Artikelen uit:*.  
-**ED1**	   
+
+*Artikelen uit:*.\
+**ED1**\
 Hickman, L.A. & Alexander, T.M., ed (1998). *The Essential Dewey. Volume 1. Pragmatism, Education, Democracy*. Bloomington/Indianapolis: Indiana University Press
 
-**ED2**	   
+**ED2**\
 Hickman, L.A. & Alexander, T.M., ed (1998). *The Essential Dewey. Volume 2. Ethics, Logic, Psychology.* Bloomington/Indianapolis: Indiana University Press.
 
-**PJD**	   
-McDermott, J.J., ed. (1973/1981) *The Philosophy of John Dewey. Two Volumes in One, 1. The Structure of Experience; 2. The Lived Experience.* Chicago/London: The University of Chicago Press.  
+**PJD**\
+McDermott, J.J., ed. (1973/1981) *The Philosophy of John Dewey. Two Volumes in One, 1. The Structure of Experience; 2. The Lived Experience.* Chicago/London: The University of Chicago Press.
 
-**APP**	   
-Weber, E.T., ed.  (2021). *America’s Public Philosopher. Essays on Social Justice, Economics, Education, and the Future of Democracy*. New York: Columbia Unversity.    
+**APP**\
+Weber, E.T., ed. (2021). *America’s Public Philosopher. Essays on Social Justice, Economics, Education, and the Future of Democracy*. New York: Columbia Unversity.
 
-*Biografieën*.  
-**JDAD**	   
+*Biografieën*.\
+**JDAD**\
 Westbrook, R.B. (1991). *John Dewey and American Democracy*. Ithaka and London: Cornell University Press
 
-**JDHT**	   
+**JDHT**\
 Ryan, A. (1995). *John Dewey and the High Tide of American Liberalism.* New York/London: W.W. Norton & Company
 
-**EJD**	   
-Jay, M. (2002/2024). *The Education of John Dewey*. New York: Columbia University.  
+**EJD**\
+Jay, M. (2002/2024). *The Education of John Dewey*. New York: Columbia University.
+
+*Overig*.\
+
+Alma, H. (2020). Art and Religion as Invitation. An Exploration Based on John Dewey's Theory of Experience and Imagination. Perichoresis, 18/3, 33-45.
+
+Bernstein, R.J. The Pragmatic Turn. Cambridge: Polity Press, 2010.
+
+Bishop, P.S. (2007). Three Theories of Individualism. University of South Florida. (Dissertation)
+
+Brown, M.J. (2012). John Dewey's Logic of Science. HOPOS: The Journal of the International Society for the History of Philosophy of Science, 2(1), 1-23.
+
+Deters, T.N. (2006). John Dewey's Theory of Inquiry: An Interpretation of a Classical American Approach to Logic. Texas A&M University Press. (Dissertation)
+
+Jakubowicz, R. (1999). Art, the Self, and Society: The Human Possibilities in John Dewey's Art as Experience. McGill University, Montreal. (Dissertation)
+
+Jenkin, B.P. (2017). *John Dewey and an ecological philosophy of religion*. Boston University. (Dissertation).
+
+Kennedy, G. (1970). Dewey's Logic and Theory of Knowledge, in: Boydston, J.A. (ed.), *Guide to the Works of John Dewey*. Carbondale and Edwardsville: Southern Illinois University Press, 1970, 61-98.
+
+Morse, D.J. (2011). Faith in Life: John Dewey's Early Philosophy. Fordham University Press. 
+
+Pappas, G.F. (2008). John Dewey's Ethics: Democracy as Experience. Indiana University Press.
+
+Ralston, S.J. (2022). Jane Addams and John Dewey. The Oxford Handbook of Jane Addams. DOI: 10.1093/oxfordhb/9780197544518.013.34.
+
+Ralston, S. (2011). *John Dewey's Great Debates-Recontructed*. Charlotte, NC: Information Age Publishing. 
+
+Riedler, M. (2024). The Artful LIfe as Transactional Process: How John Dewey Connects Art, Democracy, and Everyday Experience. International Journal of Progressive Education, 20(2).
+
+Shook, J.R. (2014). Dewey's Social Philosophy. Democracy as Education. New York: Palgrave Macmillan.
+
+Shook, J.R. (2023). Pragmatism. Cambridge: MIT Press.
+
 
