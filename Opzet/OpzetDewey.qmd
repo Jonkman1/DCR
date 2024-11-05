@@ -22,19 +22,19 @@ editor: visual
 
 -   Inleiding
 -   New Psychology (EW1: 48-60)
-- Psychological Standpoint (EW1: 122-143), 
-- Psychology as Philosophical Method (EW1: 144-167), 
-- The Reflex Arc Concept (EW5: 96-109)
+-   Psychological Standpoint (EW1: 122-143),
+-   Psychology as Philosophical Method (EW1: 144-167),
+-   The Reflex Arc Concept (EW5: 96-109)
 -   Samenvatting
 
 ### Moraal (Pappas)
 
 -   Inleiding
 -   Place of Habit in Conduct (MW14: 15-62)
-- Three Independent Factors in Morals (LW5: 279-288)
+-   Three Independent Factors in Morals (LW5: 279-288)
 -   Moral Judgement and Knowledge (LW7: 262-283)
 -   The Moral Self (LW7: 285-309)
-- Conduct and Experience (LW5: 218-235)
+-   Conduct and Experience (LW5: 218-235)
 -   Samenvatting
 
 ### Kunst en Religie (Barend)
