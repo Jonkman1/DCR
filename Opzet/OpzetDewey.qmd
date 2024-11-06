@@ -2,6 +2,7 @@
 title: "OpzetDewey"
 format: pdf
 editor: visual
+bibliography: OverDewey.bib
 ---
 
 ## Dewey
@@ -10,17 +11,17 @@ editor: visual
 
 ### Achtergrond
 
--   Inleiding
+-   Inleiding [@jay2002], [@ryan1995], [@westbrook1991], [@ralston2022]
 -   Absolutism to Experimentism (LW5: 147-160)
 -   Kant and Philosophical Method (EW1: 34-47)
 -   The Influence of Darwinism on Philosophy (MW4: 3-14)
 -   The Development of American Pragmatism (LW2: 3-21)
--   Chicago and Jane Addams
+-   Chicago and Jane Addams, z'n vrouw en krant, z'n school
 -   Samenvatting
 
 ### Kennis
 
--   Inleiding
+-   Inleiding[@guideto1970], [@morse2011]
 -   New Psychology (EW1: 48-60)
 -   Psychological Standpoint (EW1: 122-143),
 -   Psychology as Philosophical Method (EW1: 144-167),
@@ -29,17 +30,17 @@ editor: visual
 
 ### Moraal (Pappas)
 
--   Inleiding
--   Place of Habit in Conduct (MW14: 15-62)
+-   Inleiding[@pappas2008], [@frega2020]
 -   Three Independent Factors in Morals (LW5: 279-288)
 -   Moral Judgement and Knowledge (LW7: 262-283)
+-   Place of Habit in Conduct (MW14: 15-62)
 -   The Moral Self (LW7: 285-309)
 -   Conduct and Experience (LW5: 218-235)
 -   Samenvatting
 
 ### Kunst en Religie (Barend)
 
--   Inleiding
+-   Inleiding[@alma2020], [@riedler2024], [@jenkin2017]
 -   The Live Creature (LW10: 9-25)
 -   By Nature and by Art (LW15: 84-96)
 -   Religion versus the Religious (LW9:m3-20)
@@ -47,30 +48,30 @@ editor: visual
 
 ### Filosofie
 
--   Inleiding
+-   Inleiding[@bernstein][@menand2001][@shook2023]
 -   The Need for a Recovery of Philosophy (MW10: 3-48)
 -   Escape from Peril (1929/1960, PJD, 355-370)
 -   Philosophy's Search of the Immutable (1929/1960, PJD, 371-387)
 -   The Pattern of Inquiry (LW12: 105-122)
 -   Samenvatting
 
-### Politiek (Bishop (2007) zie inleiding boek)
+### Politiek 
 
--   Inleiding
+-   Inleiding[@bishop2007], [@westbrook1991b]
 -   Why I'm not a Communist (1934, APP, nr. 13)
 -   The Lost Individual (1930; PJD, 598-607)
 -   The Search for the Public (LW2: 238-258)
 -   Samenvatting
 
-### Logica (Kennedy, G. (1970)phd Mc Dermott)
+### Logica 
 
--   Inleiding
+-   Inleiding[@brown2012], [@guideto1970a]
 -   The Problem of Truth (MW6: 12-68)
 -   The Place of Judgement in Reflective Activity (LW8: 210-220)
 -   Propositions, Warranted Assertibility, and Truth (LW14: 168-188)
 -   Samenvatting
 
-### Reizen
+### Reizen [@jay2002], [@ryan1995], [@westbrook1991]
 
 -   Inleiding
 -   Japan en China
@@ -78,7 +79,7 @@ editor: visual
 -   Mexico, Rusland en Zuid-Afrika
 -   Samenvatting
 
-### Intellectueel (rol van de intellectueel)
+### Intellectueel [@ralston2011]
 
 -   Inleiding
 -   Oorlog en Vrede
@@ -86,16 +87,16 @@ editor: visual
 -   De Trotsky-zaak
 -   Samenvatting
 
-### Onderwijs (Finse phd)
+### Onderwijs (Finse phd)[@shook2014]
 
 -   Inleiding
--   My Pedagogic Creed (EW5: 84-95)
+-   My Pedagogic Creed (\[EW5: 84-95)
 -   What is school for (1923, APP, nr 18)
 -   The Child and the Curriculum (MW2: 273-291)
 -   Democracy and Education in the World of Today (1938; APP, nr 25)
 -   Samenvatting
 
-### Democratie (Bernstein)
+### Democratie [@bernsteina], [@shook2014]
 
 -   Inleiding
 -   Democracy is radical (LW11: 296-299)
@@ -107,64 +108,4 @@ editor: visual
 
 ### Literatuur.
 
-Alma, H. (2020). Art and Religion as Invitation. An Exploration Based on John Dewey’s Theory of Experience and Imagination. *Perichoresis*, *18*(3), 33–45.
-
-Bernstein, R. J. (n.d.). *The Pragmatic Turn*. Cambridge: Polity Press.
-
-Bishop, P. S. (2007). *Three Theories of Individualism*. University of South Florida.
-
-Boydston, J. A. (Ed.). (1970). *Guide to the Works of John Dewey*. Carbondale and Edwardsville: Southern Illinois University Press.
-
-Brown, M. J. (2012). John Dewey’s Logic of Science. *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, *2*(1), 1–23.
-
-Deters, T. N. (2006). *John Dewey’s Theory of Inquiry: An Interpretation of a Classical American Approach to Logic*. Texas A&M University Press.
-
-Dewey, J. (1972). *The Early Works of John Dewey, 1882-1898. 5 vols*. Carbondale and Edwardsville: Southern Illinois University Press.[^1]
-
-[^1]: Dewey, J. (1882-1953). *The Collected Works of John Dewey, 1882-1953(second Release). Electronic Edition*.
-
-    Charlottesville, Virginia: Intelex Corporation, 2003. Het omvat 39 volumes. De samensteller is Jo Ann Boydston. De electronische samensteller is Larry Hickman.
-
-Dewey, J. (1978). *The Middle Works of John Dewey, 1899-1924. 15 vols*. Carbondale and Edwardsville: Southern Illinois University Press.
-
-Dewey, J. (1985). *The Later Works of John Dewey, 1925-1953. 17 vols*. Carbondale and Edwardsville: Southern Illinois University Press.
-
-Dewey, J. (2008). *The Collected Works of John Dewey, 1882-1953. Supplementary Volume 1: 1884-1951*. Carbondale and Edwardsville: Southern Illinois University Press.
-
-Frega, F. & Levine. (2020). *John Dewey’s Ethical Theory. The 1932 Ethics*. NewYork and London: Routledge.
-
-Hickman, L. A., Alexander, T. M., & ed (Eds.). (1998a). *The Essential Dewey. Ethics, Logic, Psychology* (Vol. 2). Bloomington/Indianapolis: Indiana University Press.
-
-Hickman, L. A., Alexander, T. M., & ed (Eds.). (1998b). *The Essential Dewey. Pragmatism, Education* (Vol. 1). Bloomington/Indianapolis: Indiana University Press.
-
-Hook, S. (1935). *John Dewey. An Intellectual Portrait*. New York: Promethus Books.
-
-Jakubowicz, R. (1999). *Art, the Self, and Society. The Human Possibilities in John Dewey’s Art as Experience*. Montreal: McGill University.
-
-Jay, M. (2002). *The Education of John Dewey*. New York: Columbia University.
-
-Jenkin, B. P. (2017). *John Dewey and an ecological philosophy of religion*. Boston University.
-
-McDermott, J. J. (Ed.). (1973). *The Philosophy of John Dewey. Two Volumes in One* (Vol. 1). Chicago/London: The University of Chicago Press.
-
-Menand, L. (2001). *The Metaphysical Club. A Story of Ideas in America*. Virginia: MacMillan Publisher.
-
-Morse, D. J. (2011). *Faith in Life. John Dewey’s Early Philosophy*. Fordham: Fordham University Press.
-
-Pappas, G. F. (2008). *John Dewey’s Ethics. Democracy as Experience*. Bloomington/Indianapolis: Indiana University Press.
-
-Ralston, S. (2011). *John Dewey’s Great Debates-Recontructed*. Charlotte, NC: Information Age Publishing.
-
-Ralston, S. J. (2022). *Jane Addams and John Dewey. The Oxford Handbook of Jane Addams*. <https://doi.org/10.1093/oxfordhb/9780197544518.013.34.>
-
-Riedler, M. (2024). The Artful LIfe as Transactional Process. How John Dewey Connects Art, Democracy, and Everyday Experience. *International Journal of Progressive Education*, *20*(2).
-
-Ryan, A. (1995). *John Dewey and the High Tide of American Liberalism*. New York/London: W.W. Norton & Company.
-
-Shook, J. R. (2014). *Dewey’s Social Philosophy. Democracy as Education*. New York: Palgrave Macmillan.
-
-Shook, J. R. (2023). *Pragmatism*. Cambridge: MIT Press.
-
-Weber, E. T. (Ed.). (2021). *America’s Public Philosopher. Essays on Social Justice, Economics, Education, and the Future of Democracy*. New York: Columbia University.
-
-Westbrook, R. B. (1991). *John Dewey and American Democracy. Ithaka and*. London: Cornell University Press.
+<div id="refs"></div>
