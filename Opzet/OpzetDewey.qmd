@@ -55,7 +55,7 @@ bibliography: OverDewey.bib
 -   The Pattern of Inquiry (LW12: 105-122)
 -   Samenvatting
 
-### Politiek 
+### Politiek
 
 -   Inleiding[@bishop2007], [@westbrook1991b]
 -   Why I'm not a Communist (1934, APP, nr. 13)
@@ -63,7 +63,7 @@ bibliography: OverDewey.bib
 -   The Search for the Public (LW2: 238-258)
 -   Samenvatting
 
-### Logica 
+### Logica
 
 -   Inleiding[@brown2012], [@guideto1970a]
 -   The Problem of Truth (MW6: 12-68)
@@ -108,4 +108,5 @@ bibliography: OverDewey.bib
 
 ### Literatuur.
 
-<div id="refs"></div>
+::: {#refs}
+:::
