@@ -11,13 +11,13 @@ bibliography: OverDewey.bib
 
 ### Achtergrond
 
--   Inleiding [@jay2002], [@ryan1995], [@westbrook1991], [@ralston2022]
+-   Inleiding [@jay2002], [@ryan1995], [@westbrook1991],
 -   Absolutism to Experimentism (LW5: 147-160)
--   Kant and Philosophical Method (EW1: 34-47)
--   The Influence of Darwinism on Philosophy (MW4: 3-14)
--   The Development of American Pragmatism (LW2: 3-21)
--   Chicago and Jane Addams, z'n vrouw en krant, z'n school
--   Samenvatting
+-   Kant en Hegel: Kant and Philosophical Method (EW1: 34-47)
+-   Darwin: The Influence of Darwinism on Philosophy (MW4: 3-14)
+-   James: The Development of American Pragmatism (LW2: 3-21)
+-   Praktijk: Chicago and Jane Addams, z'n vrouw en krant, Labschool
+-   Samenvatting [@jay2002], [@ryan1995], [@westbrook1991],
 
 ### Kennis
 
@@ -25,6 +25,7 @@ bibliography: OverDewey.bib
 -   New Psychology (EW1: 48-60)
 -   Psychological Standpoint (EW1: 122-143),
 -   Psychology as Philosophical Method (EW1: 144-167),
+-   Boek: Psychology
 -   The Reflex Arc Concept (EW5: 96-109)
 -   Samenvatting
 
@@ -32,11 +33,12 @@ bibliography: OverDewey.bib
 
 -   Inleiding[@pappas2008], [@frega2020]
 -   Three Independent Factors in Morals (LW5: 279-288)
--   Moral Judgement and Knowledge (LW7: 262-283)
+-   Boeken: Outline (ES3); StudyEthicsEW4; EthicsMW5; HumanNature (MW14); EthicsLW7
+-   Judgement and Knowledge (LW7: 262-283)
 -   Place of Habit in Conduct (MW14: 15-62)
 -   The Moral Self (LW7: 285-309)
 -   Conduct and Experience (LW5: 218-235)
--   Samenvatting
+-   Samenvatting (Sauer, 2023)
 
 ### Kunst en Religie (Barend)
 
@@ -44,12 +46,14 @@ bibliography: OverDewey.bib
 -   The Live Creature (LW10: 9-25)
 -   By Nature and by Art (LW15: 84-96)
 -   Religion versus the Religious (LW9:m3-20)
+-   Boeken: CommonFaith (LW9), Art as Experience(LW10)
 -   Samenvatting
 
 ### Filosofie
 
 -   Inleiding[@bernstein][@menand2001][@shook2023]
 -   The Need for a Recovery of Philosophy (MW10: 3-48)
+-   Boeken: Leibniz new essays (EW1); German Philosophy and Politics (MW8), Reconstruction (MW12); Quest for Certainty (LW4); Construction and Critcism (LW5); Freedom and Culture (LW13)
 -   Escape from Peril (1929/1960, PJD, 355-370)
 -   Philosophy's Search of the Immutable (1929/1960, PJD, 371-387)
 -   The Pattern of Inquiry (LW12: 105-122)
@@ -58,53 +62,67 @@ bibliography: OverDewey.bib
 ### Politiek
 
 -   Inleiding[@bishop2007], [@westbrook1991b]
+-   Boeken: Public and its Problems (LW2); Individualism (LW5); Liberalism and SA (LW11)
 -   Why I'm not a Communist (1934, APP, nr. 13)
 -   The Lost Individual (1930; PJD, 598-607)
 -   The Search for the Public (LW2: 238-258)
 -   Samenvatting
 
-### Logica
+### Logica en wetenschap
 
 -   Inleiding[@brown2012], [@guideto1970a]
 -   The Problem of Truth (MW6: 12-68)
+-   Boeken: Studies in Logical theory (MW2); How We Think (MW6; LW8); Quest for Certainty (LW4); Logic (LW12); Theory of Validation (LW13); Knowing and the Known (LW16)
 -   The Place of Judgement in Reflective Activity (LW8: 210-220)
 -   Propositions, Warranted Assertibility, and Truth (LW14: 168-188)
 -   Samenvatting
 
-### Reizen [@jay2002], [@ryan1995], [@westbrook1991]
+### Reizen 
 
--   Inleiding
+-   Inleiding [@jay2002], [@ryan1995], [@westbrook1991]
 -   Japan en China
 -   Turkije
 -   Mexico, Rusland en Zuid-Afrika
 -   Samenvatting
 
-### Intellectueel [@ralston2011]
+### Intellectueel 
 
--   Inleiding
+-   Inleiding [@ralston2011]
 -   Oorlog en Vrede
 -   Het publiek
 -   De Trotsky-zaak
--   Samenvatting
+-   Samenvatting (Nichols2024, The death of expertise0
 
-### Onderwijs (Finse phd)[@shook2014]
+### Onderwijs 
 
--   Inleiding
+-   Inleiding (Cremin, 1961; Cremin, 1988, Steffes, 2021)
 -   My Pedagogic Creed (\[EW5: 84-95)
 -   What is school for (1923, APP, nr 18)
 -   The Child and the Curriculum (MW2: 273-291)
+-   Boeken: Educational Situation (MW1); Moral principles in Education (MW4); How We Think (MW6; LW8); Interest and effort in Edcuation MW7); Schools of Tomorrow (MW8); Democarcy and Education (MW9); The Source of a Scinece of Education (LW5); Experience and Education (LW13)
 -   Democracy and Education in the World of Today (1938; APP, nr 25)
--   Samenvatting
+-   Samenvatting [@shook2014] Kauppi
 
-### Democratie [@bernsteina], [@shook2014]
+### Democratie
 
--   Inleiding
+-   Inleiding [@bernsteina], [@shook2014]
 -   Democracy is radical (LW11: 296-299)
 -   Creative Democracy- The Task Before Us (LW14: 224-230)
+-   Boeken: Democracy and Education (MW); xx: Freedom and Culture (LW13)
 -   Search for the Great Community (LW2: 325-350)
--   Samenvatting
+-   Samenvatting (Hunter, 2024; xx)
 
-### Anderen over Dewey en wat hebben we eraan? (biografieen, Hook, Rorty, Bernstein, Pappas, Shook)
+### Anderen over Dewey en wat hebben we eraan? 
+
+ - Sydney Hook;
+ - Richard Rorty; 
+ - R.J. Bernstein; 
+ - Westbrook;
+ - Ryan;
+ - Jay;
+ - Pappas;
+ - Shook
+ -
 
 ### Literatuur.
 
