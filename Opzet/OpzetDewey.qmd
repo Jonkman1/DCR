@@ -62,7 +62,7 @@ bibliography: OverDewey.bib
 ### Politiek
 
 -   Inleiding[@bishop2007], [@westbrook1991b]
--   Boeken: Public and its Problems (LW2); Individualism (LW5); Liberalism and SA (LW11)
+-   Boeken: Public and its Problems (LW2); Individualism (LW5); Liberalism and SA (LW11); Freedom and Culture(LW13)
 -   Why I'm not a Communist (1934, APP, nr. 13)
 -   The Lost Individual (1930; PJD, 598-607)
 -   The Search for the Public (LW2: 238-258)
