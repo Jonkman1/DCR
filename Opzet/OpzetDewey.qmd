@@ -1,6 +1,6 @@
 ---
 title: "OpzetDewey"
-format: pdf
+format: typst
 editor: visual
 bibliography: OverDewey.bib
 ---
@@ -9,7 +9,20 @@ bibliography: OverDewey.bib
 
 ### Waarom Dewey?
 
-### Achtergrond
+### Leven
+
+John Dewey werd op 20 oktober 1859 geboren in de buurt van Burlington, Vermont. Twintig jaar later studeerde hij af aan de Universiteit van Vermont, nadat hij les had gegeven aan openbare scholen in Pennsylvania en Vermont. Dewey was al tijdens zijn studie geïnteresseerd geraakt in filosofische vraagstukken en vervolgde zijn filosofische opleiding aan de John Hopkins University. In 1884 promoveerde hij aan die universiteit tot doctor in de filosofie en kort daarna aanvaardde hij een positie in de filosofie aan de Universiteit van Michigan. Afgezien van een aanstelling van een jaar als professor in de filosofie aan de Universiteit van Minnesota, bleef Dewey vijf jaar als voorzitter aan Michigan verbonden tot hij in 1894 met zijn vrouw, Alice Chipman, naar de Universiteit van Chicago verhuisde en aan zijn ambtstermijn als voorzitter van de afdeling filosofie begon. Het was in Chicago dat Dewey nationale erkenning kreeg voor zijn pionierswerk op het gebied van onderwijs met de ontwikkeling van zijn laboratoriumschool waarin experimentele benaderingen van lesgeven werden onderzocht. Na een ruzie met de Universiteit van Chicago over het bestuur van de school, vertrok Dewey in 1904 en accepteerde hij een hoogleraarschap in de filosofie aan Columbia University.
+
+Gedurende de zesentwintig jaar die volgden diende Deweys academische positie aan Columbia als springplank voor zijn vele en gevarieerde interesses, zoals sociale vraagstukken, politiek, onderwijs en openbare aangelegenheden. Zijn nationale en internationale reputatie bracht hem ertoe samen te werken met groepen als de American Philosophical Association, de American Association of University Professors (oprichter en eerste voorzitter), de Teacher's Union en de American Civil Liberties.
+
+In tegenstelling tot degenen die hun pensioen beschouwen als een tijd om te ontspannen en te genieten van de rustgevende geneugten van het latere leven, wijdde John Dewey zijn resterende jaren aan het oplossen van de moeilijke sociale vraagstukken waar Amerika en de wereld voor stonden.  Hij zette zich in voor organisaties die tot doel hadden het openbaar onderwijs op het gebied van demostiek en internationale politiek te verbeteren. Een van Dewey's beroemdste openbare forums was zijn deelname aan de commissie die in Mexico City bijeenkwam om de aanklachten tegen Leon Trotski tijdens zijn proces in Moskou te onderzoeken. De commissie oordeelde vervolgens dat Trotski onschuldig was aan de aanklachten. Hij was ook één van de collega's die in het openbaar collega-filosoof Betrand Russell verdedigde toen Russell een baan als docent aan het City College van New York werd geweigerd vanwege openbare kritiek op zijn standpunten over huwelijk en religie.
+
+Bij het ontwikkelen van zijn eigen unieke filosofische houding overwon John Dewey het hegeliaanse idealisme om de pragmatische opvattingen van William James te omarmen. Dewey's toewijding aan fee onderzoek en de wetenschappelijke methode bracht hem aan het hoofd van de intellectuele oppositie tegen het geloof dat absolute kennis kan worden bereikt in een wereld van gevarieerde omstandigheden, ontdekkingen, baanbrekend onderzoek en vooruitgang van alle soorten. Voor Dewey is kennis niet absoluut, onveranderlijk en eeuwig, maar eerder relatief ten opzichte van de ontwikkelingsinteractie van de mens met zijn wereld naarmate problemen zich aandienen om opgelost te worden. Deze wetenschappelijke benadering, die het mogelijk maakt om de waarheid van een bewering te verklaren totdat - en alleen totdat - er voldoende negatief bewijs is om de hypothese te ontkrachten, opent de geest voor de noodzaak van een democratische benadering van probleemoplossing. Zonder samenwerking en een rationele tolerantie voor verschillende standpunten binnen een pluralistische gemeenschap heeft de samenleving geen hoop op volwassen ontwikkeling.
+
+Gedurende zijn drieënnegentig jaar schreef John Dewey meer dan twee dozijn boeken en tientallen artikelen in zowel wetenschappelijke als populaire publicaties. Hij is echt Amerika's meest vooraanstaande filosoof, wiens werk intellectuelen over de hele wereld nog vele jaren zal beïnvloeden. 
+
+John Dewey stierf in New York Citsy op 1 juni 1952.
+
 
 -   Inleiding [@jay2002], [@ryan1995], [@westbrook1991],
 -   Absolutism to Experimentism (LW5: 147-160)
@@ -19,7 +32,7 @@ bibliography: OverDewey.bib
 -   Praktijk: Chicago and Jane Addams, z'n vrouw en krant, Labschool
 -   Samenvatting [@jay2002], [@ryan1995], [@westbrook1991],
 
-### Kennis
+### Psycholoog
 
 -   Inleiding[@guideto1970], [@morse2011]
 -   New Psychology (EW1: 48-60)
@@ -29,7 +42,7 @@ bibliography: OverDewey.bib
 -   The Reflex Arc Concept (EW5: 96-109)
 -   Samenvatting
 
-### Moraal (Pappas)
+### Ethicus
 
 -   Inleiding[@pappas2008], [@frega2020]
 -   Three Independent Factors in Morals (LW5: 279-288)
@@ -40,7 +53,7 @@ bibliography: OverDewey.bib
 -   Conduct and Experience (LW5: 218-235)
 -   Samenvatting (Sauer, 2023)
 
-### Kunst en Religie (Barend)
+### Cultuurman
 
 -   Inleiding[@alma2020], [@riedler2024], [@jenkin2017]
 -   The Live Creature (LW10: 9-25)
@@ -49,7 +62,7 @@ bibliography: OverDewey.bib
 -   Boeken: CommonFaith (LW9), Art as Experience(LW10)
 -   Samenvatting
 
-### Filosofie
+### Filosoof
 
 -   Inleiding[@bernstein][@menand2001][@shook2023]
 -   The Need for a Recovery of Philosophy (MW10: 3-48)
@@ -59,7 +72,7 @@ bibliography: OverDewey.bib
 -   The Pattern of Inquiry (LW12: 105-122)
 -   Samenvatting
 
-### Politiek
+### Politicus
 
 -   Inleiding[@bishop2007], [@westbrook1991b]
 -   Boeken: Public and its Problems (LW2); Individualism (LW5); Liberalism and SA (LW11); Freedom and Culture(LW13)
@@ -68,7 +81,7 @@ bibliography: OverDewey.bib
 -   The Search for the Public (LW2: 238-258)
 -   Samenvatting
 
-### Logica en wetenschap
+### Wetenschapper
 
 -   Inleiding[@brown2012], [@guideto1970a]
 -   The Problem of Truth (MW6: 12-68)
@@ -77,23 +90,18 @@ bibliography: OverDewey.bib
 -   Propositions, Warranted Assertibility, and Truth (LW14: 168-188)
 -   Samenvatting
 
-### Reizen 
-
--   Inleiding [@jay2002], [@ryan1995], [@westbrook1991]
--   Japan en China
--   Turkije
--   Mexico, Rusland en Zuid-Afrika
--   Samenvatting
-
 ### Intellectueel 
 
--   Inleiding [@ralston2011]
+-   Inleiding [@jay2002], [@ryan1995], [@westbrook1991], [@ralston2011]
+-   Japan en China
+-   Turkije, Mexico, Rusland en Zuid-Afrika
+
 -   Oorlog en Vrede
 -   Het publiek
 -   De Trotsky-zaak
 -   Samenvatting (Nichols2024, The death of expertise0
 
-### Onderwijs 
+### Onderwijsman 
 
 -   Inleiding (Cremin, 1961; Cremin, 1988, Steffes, 2021)
 -   My Pedagogic Creed (\[EW5: 84-95)
@@ -103,7 +111,7 @@ bibliography: OverDewey.bib
 -   Democracy and Education in the World of Today (1938; APP, nr 25)
 -   Samenvatting [@shook2014] Kauppi
 
-### Democratie
+### Democraat
 
 -   Inleiding [@bernsteina], [@shook2014]
 -   Democracy is radical (LW11: 296-299)
@@ -112,7 +120,7 @@ bibliography: OverDewey.bib
 -   Search for the Great Community (LW2: 325-350)
 -   Samenvatting (Hunter, 2024; xx)
 
-### Anderen over Dewey en wat hebben we eraan? 
+### Anderen over Dewey 
 
  - Sydney Hook;
  - Richard Rorty; 
@@ -121,9 +129,11 @@ bibliography: OverDewey.bib
  - Ryan;
  - Jay;
  - Pappas;
- - Shook
- -
+ - Shook;
+ - West;
+ - Rogers
 
+### Tot slot: wat hebben we eraan?
 ### Literatuur.
 
 ::: {#refs}
