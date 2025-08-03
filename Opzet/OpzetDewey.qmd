@@ -11,63 +11,60 @@ bibliography: OverDewey.bib
 
 ### In het kort
 
-John Dewey wordt op 20 oktober 1859 geboren in de buurt van Burlington, Vermont. Twintig jaar later studeert hij af aan de Universiteit van Vermont, nadat hij les had gegeven aan openbare scholen in Pennsylvania en Vermont. Dewey raakt tijdens zijn studie in Vermont geïnteresseerd in filosofische vraagstukken en besluit filosofie te gaan studeren aan de John Hopkins University. In 1884 promoveert hij aan die universiteit tot doctor in de filosofie op een studie naar het werk van Kant. 
-Kort na zijn promotie aanvaardt hij een positie in de filosofie aan de Universiteit van Michigan. Afgezien van een aanstelling van een jaar als professor in de filosofie aan de Universiteit van Minnesota, blijft Dewey aan Michigan verbonden tot hij in 1894 naar Chicago vertrekt.
+John Dewey wordt op 20 oktober 1859 geboren in de buurt van Burlington, Vermont. Twintig jaar later studeert hij af aan de Universiteit van Vermont, nadat hij les had gegeven aan openbare scholen in Pennsylvania en Vermont. Dewey raakt tijdens zijn studie in Vermont geïnteresseerd in filosofische vraagstukken en besluit filosofie te gaan studeren aan de John Hopkins University. In 1884 promoveert hij aan die universiteit tot doctor in de filosofie op een studie naar het werk van Kant. Kort na zijn promotie aanvaardt hij een positie in de filosofie aan de Universiteit van Michigan. Afgezien van een aanstelling van een jaar als professor in de filosofie aan de Universiteit van Minnesota, blijft Dewey aan Michigan verbonden tot hij in 1894 naar Chicago vertrekt.
 
 Daar wordt hij voorzitter van de afdeling filosofie. In Chicago verwerft hij nationale erkenning voor zijn pionierswerk op het gebied van onderwijs. Dat doet hij via de Laboratoriumschool die hij heeft opgezet en waarin hij op experimentele wijze het lesgeven onderzoekt. Na een ruzie met het hoofd van de Universiteit van Chicago over het bestuur van de school, vertrekt Dewey in 1904 en accepteert hij een hoogleraarschap in de filosofie aan Columbia University.
 
 In de zesentwintig jaar die volgen is hij op heel veel terreinen actief waaronder sociale, politieke, onderwijs-vraagstukken en openbare aangelegenheden. Zijn nationale en internationale reputatie brengt hem ertoe samen te werken met groepen als de American Philosophical Association, de American Association of University Professors (oprichter en eerste voorzitter), de Teacher's Union en de American Civil Liberties en vele andere organisaties.
 
-Na zijn pensionering is John Dewey enkt hij na over het oplossen van de moeilijke sociale vraagstukken waar Amerika en de wereld voor staan.  Hij zet zich in voor organisaties die tot doel hadden het openbaar onderwijs op het gebied van democratie en internationale politiek te verbeteren. Zo is Dewey voorzitter van een de commissie die in Mexico City bijeenkomt om de aanklachten tegen Leon Trotski tijdens zijn proces in Moskou te onderzoeken. De commissie oordeelt vervolgens dat Trotski onschuldig is aan de aanklachten. Hij is ook één van de collega's die in het openbaar collega-filosoof Betrand Russell verdedigt wanneer Bertrand Russell een baan als docent aan het City College van New York wordt geweigerd vanwege openbare kritiek op zijn standpunten over huwelijk en religie.
+Na zijn pensionering is John Dewey enkt hij na over het oplossen van de moeilijke sociale vraagstukken waar Amerika en de wereld voor staan. Hij zet zich in voor organisaties die tot doel hadden het openbaar onderwijs op het gebied van democratie en internationale politiek te verbeteren. Zo is Dewey voorzitter van een de commissie die in Mexico City bijeenkomt om de aanklachten tegen Leon Trotski tijdens zijn proces in Moskou te onderzoeken. De commissie oordeelt vervolgens dat Trotski onschuldig is aan de aanklachten. Hij is ook één van de collega's die in het openbaar collega-filosoof Betrand Russell verdedigt wanneer Bertrand Russell een baan als docent aan het City College van New York wordt geweigerd vanwege openbare kritiek op zijn standpunten over huwelijk en religie.
 
 Bij het ontwikkelen van zijn eigen unieke filosofische houding overwint John Dewey het hegeliaanse idealisme door de evolutieideeën van Darwin en om de pragmatische opvattingen van William James te omarmen. Dewey's toewijding aan het onderzoek en de wetenschappelijke methode maakt hem belangrijk in intellectuele oppositie tegen het geloof dat absolute kennis kan worden bereikt in een wereld van gevarieerde omstandigheden, ontdekkingen, baanbrekend onderzoek en vooruitgang van alle soorten. Voor Dewey is kennis niet absoluut, onveranderlijk en eeuwig, maar eerder relatief ten opzichte van de ontwikkelingsinteractie van de mens met zijn wereld naarmate problemen zich aandienen om opgelost te worden. Deze wetenschappelijke benadering, die het mogelijk maakt om de waarheid van een bewering te verklaren totdat - en alleen totdat - er voldoende negatief bewijs is om de hypothese te ontkrachten, opent de geest voor de noodzaak van een democratische benadering om problemen op te lossen. Zonder samenwerking en een rationele tolerantie voor verschillende standpunten binnen een pluralistische gemeenschap heeft de samenleving geen hoop op volwassen ontwikkeling.
 
-Gedurende zijn drieënnegentig jaar schreef John Dewey zo'n 35 boeken boeken en 700 artikelen in zowel wetenschappelijke als populaire publicaties. Hij wordt gezien als een van Amerika's meest vooraanstaande filosofen, wiens werk intellectuelen over de hele wereld vele jaren beïnvloedde en wiens ideeën nog steeds inspireren. 
+Gedurende zijn drieënnegentig jaar schreef John Dewey zo'n 35 boeken boeken en 700 artikelen in zowel wetenschappelijke als populaire publicaties. Hij wordt gezien als een van Amerika's meest vooraanstaande filosofen, wiens werk intellectuelen over de hele wereld vele jaren beïnvloedde en wiens ideeën nog steeds inspireren.
 
 John Dewey stierf in New York Citsy op 1 juni 1952.
 
 ### Achtergrond
 
-
 -   Inleiding [@jay2002], [@ryan1995], [@westbrook1991],
--   Absolutism to Experimentism (LW5: 147-160)
--   Kant en Hegel: Kant and Philosophical Method (EW1: 34-47)
--   Darwin: The Influence of Darwinism on Philosophy (MW4: 3-14)
--   James: The Development of American Pragmatism (LW2: 3-21)
+-   Absolutism to Experimentism (LW 5: 147-160)
+-   Kant en Hegel: Kant and Philosophical Method (EW 1: 34-47)
+-   Darwin: The Influence of Darwinism on Philosophy (MW 4: 3-14)
+-   James: The Development of American Pragmatism (LW 2: 3-21)
 -   Praktijk: Chicago and Jane Addams, z'n vrouw en krant, Labschool
 -   Samenvatting [@jay2002], [@ryan1995], [@westbrook1991],
 
 ### Psychologie
 
-
 In deze periode ontwikkelt hij zich als psycholoog xxx
 
 -   Inleiding[@guideto1970], [@morse2011]
--   New Psychology (EW1: 48-60)
--   Psychological Standpoint (EW1: 122-143),
--   Psychology as Philosophical Method (EW1: 144-167),
+-   New Psychology (EW 1: 48-60)
+-   Psychological Standpoint (EW 1: 122-143),
+-   Psychology as Philosophical Method (EW 1: 144-167),
 -   Boek: Psychology
--   The Reflex Arc Concept (EW5: 96-109)
+-   The Reflex Arc Concept (EW 5: 96-109)
 -   Samenvatting
 
 ### Ethiek
+
 In dezelfde tijd
 
 -   Inleiding[@pappas2008], [@frega2020]
--   Three Independent Factors in Morals (LW5: 279-288)
--   Boeken: Outline (ES3); StudyEthicsEW4; EthicsMW5; HumanNature (MW14); EthicsLW7
--   Judgement and Knowledge (LW7: 262-283)
--   Place of Habit in Conduct (MW14: 15-62)
--   The Moral Self (LW7: 285-309)
--   Conduct and Experience (LW5: 218-235)
+-   Three Independent Factors in Morals (LW 5: 279-288)
+-   Boeken: Outline (EW 3); StudyEthicsEW 4; EthicsMW 5; HumanNature (MW 14); EthicsLW 7
+-   Judgement and Knowledge (LW 7: 262-283)
+-   Place of Habit in Conduct (MW 14: 15-62)
+-   The Moral Self (LW 7: 285-309)
+-   Conduct and Experience (LW 5: 218-235)
 -   Samenvatting (Sauer, 2023)
-
 
 ### Filosofie
 
 -   Inleiding[@bernstein][@menand2001][@shook2023]
--   The Need for a Recovery of Philosophy (MW10: 3-48)
--   Boeken: Leibniz new essays (EW1); German Philosophy and Politics (MW8), Reconstruction (MW12); Quest for Certainty (LW4); Construction and Critcism (LW5); Freedom and Culture (LW13)
+-   The Need for a Recovery of Philosophy (MW 10: 3-48)
+-   Boeken: Leibniz new essays (EW 1); German Philosophy and Politics (MW 8), Reconstruction (MW 12); Experience and Nature (LW 1); Quest for Certainty (LW 4); Construction and Critcism (LW 5); Freedom and Culture (LW 13)
 -   Escape from Peril (1929/1960, PJD, 355-370)
 -   Philosophy's Search of the Immutable (1929/1960, PJD, 371-387)
 -   The Pattern of Inquiry (LW12: 105-122)
@@ -76,14 +73,13 @@ In dezelfde tijd
 ### Verbeelding
 
 -   Inleiding[@alma2020], [@riedler2024], [@jenkin2017]
--   Christianity and Democracy (EW4, 1-18)
--   Religion and Our Schools (MW4, 165-178)
--   The Live Creature (LW10: 9-25)
+-   Christianity and Democracy (EW 4, 1-18)
+-   Religion and Our Schools (MW 4, 165-178)
+-   The Live Creature (LW 10: 9-25)
 -   By Nature and by Art (LW15: 84-96)
--   Religion versus the Religious (LW9:m3-20)
+-   Religion versus the Religious (LW 9:13-20)
 -   Boeken: CommonFaith (LW9), Art as Experience(LW10)
 -   Samenvatting
-
 
 ### Politiek
 
@@ -97,21 +93,26 @@ In dezelfde tijd
 ### Wetenschap
 
 -   Inleiding[@brown2012], [@guideto1970a]
--   The Problem of Truth (MW6: 12-68)
--   Boeken: Studies in Logical theory (MW2); How We Think (MW6; LW8); Quest for Certainty (LW4); Logic (LW12); Theory of Validation (LW13); Knowing and the Known (LW16)
--   The Place of Judgement in Reflective Activity (LW8: 210-220)
--   Propositions, Warranted Assertibility, and Truth (LW14: 168-188)
+-   The Problem of Truth (MW 6: 12-68)
+-   Boeken: Studies in Logical theory (MW 2); How We Think (MW 6; LW 8); Logic (LW 12); Theory of Validation (LW 13); Knowing and the Known (LW 16)
+-   The Place of Judgement in Reflective Activity (LW 8: 210-220)
+-   Propositions, Warranted Assertibility, and Truth (LW 14: 168-188)
 -   Samenvatting
 
-### Discussie  
+### Intellectureel
 
 -   Inleiding [@jay2002], [@ryan1995], [@westbrook1991], [@ralston2011]
+
 -   Japan en China
+
 -   Turkije, Mexico, Rusland en Zuid-Afrika
 
 -   Oorlog en Vrede
+
 -   Het publiek
+
 -   De Trotsky-zaak
+
 -   Samenvatting (Nichols2024, The death of expertise0
 
 ### Onderwijs
@@ -133,21 +134,37 @@ In dezelfde tijd
 -   Search for the Great Community (LW2: 325-350)
 -   Samenvatting (Hunter, 2024; xx)
 
-### Anderen over Dewey 
+### Over Dewey
 
- - Sydney Hook;
- - Richard Rorty; 
- - R.J. Bernstein; 
- - Westbrook;
- - Ryan;
- - Jay;
- - Pappas;
- - Shook;
- - West;
- - Rogers
- - Johnson&Schulkin
+-   Sydney Hook;
 
-### Tot slot: wat hebben we eraan?
+-   Richard Rorty;
+
+-   R.J. Bernstein;
+
+-   Westbrook;
+
+-   Ryan;
+
+-   Jay;
+
+-   Pappas;
+
+-   Shook;
+
+-   West;
+
+-   Rogers
+
+-   Johnson&Schulkin
+
+-   Ikzelf
+
+-   <div>
+
+    ### 
+
+    </div>
 
 ### Literatuur.
 
